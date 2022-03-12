@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyFirstReactApp.git/static/css/main.407f6895.css",
+    "main.js": "/MyFirstReactApp.git/static/js/main.596b341f.js",
+    "index.html": "/MyFirstReactApp.git/index.html",
+    "main.407f6895.css.map": "/MyFirstReactApp.git/static/css/main.407f6895.css.map",
+    "main.596b341f.js.map": "/MyFirstReactApp.git/static/js/main.596b341f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407f6895.css",
+    "static/js/main.596b341f.js"
+  ]
+}
